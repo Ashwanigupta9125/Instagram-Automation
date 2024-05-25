@@ -1,8 +1,4 @@
 
-![Screenshot (18)](https://github.com/Ashwanigupta9125/Instagram-Automation/assets/68058110/4d5ab3cf-ee8b-4e6f-b959-826c86b2a253)
-
-
-Uploading WhatsApp Video 2024-05-24 at 07.14.01_38866735.mp4…
 
 
 # Instagram-Automation
