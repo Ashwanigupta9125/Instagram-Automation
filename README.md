@@ -1,3 +1,6 @@
+
+![Screenshot (18)](https://github.com/Ashwanigupta9125/Instagram-Automation/assets/68058110/4d5ab3cf-ee8b-4e6f-b959-826c86b2a253)
+
 # Instagram-Automation
 To use this application, first, you need to set up your user credentials by entering your username and password
  in the total_user.txt file. Once you've done that, you can proceed to run the main file of the application.
